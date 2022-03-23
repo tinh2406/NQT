@@ -1,0 +1,12 @@
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\bin\Debug\quanlisv.exe.config
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\bin\Debug\quanlisv.exe
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\bin\Debug\quanlisv.pdb
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.csproj.AssemblyReference.cache
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.csproj.SuggestedBindingRedirects.cache
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.Form1.resources
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.Form2.resources
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.Properties.Resources.resources
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.csproj.GenerateResource.cache
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.csproj.CoreCompileInputs.cache
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.exe
+C:\Users\NQT\source\repos\Dotnet\WindowsFormsApp1\Baitap2232022\quanlisv\quanlisv\obj\Debug\quanlisv.pdb
